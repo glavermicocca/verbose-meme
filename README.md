@@ -7,7 +7,7 @@ cambiati da un altro punto
 nel mondo
 
 1. Voglio generare un conflitto con quello che sto facendo a casa
-2.
+2. Secondo punto della lista
 3.
 4.
 
