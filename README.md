@@ -6,7 +6,7 @@ iniziali che poi verranno
 cambiati da un altro punto
 nel mondo
 
-1.
+1. Voglio generare un conflitto con quello che sto facendo a casa
 2.
 3.
 4.
